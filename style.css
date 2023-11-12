@@ -16,6 +16,14 @@ header {
 a {
     color: rgb(0, 60, 255);
 }
+.eng {
+    float: right;
+    font-size: 60%;
+    padding-right: 2%;
+    font-weight: bold;
+    font-family: 'Nunito Sans', sans-serif;
+    text-decoration: none;
+}
 .conteudo-container {
     display: flex;
 }
@@ -45,6 +53,9 @@ a {
     padding: 1.5%;
     font-family: 'Nunito Sans', sans-serif;
     font-size: 100%;
+}
+.cv {
+    text-align: center;
 }
 .escola {
     text-align: center;
@@ -87,6 +98,7 @@ a {
     border-radius: 25%;
     padding-top: 2%;
     padding-bottom: 2%;
+    width:100%;
 }
 #imggn {
     width: 100%;
@@ -94,6 +106,9 @@ a {
     padding-bottom: 2%;
 }
 #rp {
-    color: black;
+    color: rgb(0, 47, 255);
     text-decoration: none;
+}
+#cv {
+        width:100%;
 }
